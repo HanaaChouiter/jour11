@@ -1,0 +1,23 @@
+{
+  "name": "jour11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanaaChouiter/jour11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HanaaChouiter/jour11/issues"
+  },
+  "homepage": "https://github.com/HanaaChouiter/jour11#readme",
+  "dependencies": {
+    "prompt": "^1.2.0",
+    "random-word-fr": "^1.0.3"
+  }
+}
